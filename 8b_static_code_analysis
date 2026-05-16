@@ -1,0 +1,4 @@
+theia@theiadocker-abhinavkum43:/home/project/final_proj$ pylint server.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.50/10, +2.50)
